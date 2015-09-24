@@ -1,0 +1,16 @@
+# CSGO-Binds-Buy
+CSGO CONFIG
+bind "kp_end" "buy ak47; buy m4a1;"
+bind "kp_ins" "buy vesthelm;"
+bind "kp_plus" "buy awp;"
+bind "kp_downarrow" "buy galilar; buy famas;"
+bind "kp_pgdn" "buy mac10; buy mp9;"
+bind "kp_leftarrow" "buy tec9; buy fiveseven;"
+bind "kp_home" "buy defuser;"
+bind "kp_uparrow" "buy vest;"
+bind "kp_pgup" "buy sawedoff; buy mag7;"
+bind "kp_5" "buy deagle;"
+bind "kp_rightarrow" "buy p250;"
+bind "kp_minus" "buy defuser; buy flashbang; buy smokegrenade;"
+bind "kp_enter" "buy ak47; buy m4a1; buy defuser; buy vesthelm; buy smokegrenade; buy flashbang; buy flashbang; buy hegrenade;"
+bind "kp_del" "buy taser;"
